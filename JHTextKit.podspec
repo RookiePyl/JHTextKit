@@ -3,6 +3,7 @@ Pod::Spec.new do |s|
   s.version      = '1.0.0'
   s.summary      = 'Text Limit.'
   s.description  = <<-DESC
+  Limit
                    DESC
 
   s.homepage     = 'https://github.com/RookiePyl/JHTextKit'
