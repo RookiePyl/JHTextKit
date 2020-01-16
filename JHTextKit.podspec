@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = '1.0.0'
   s.summary      = 'Text Limit.'
   s.description  = <<-DESC
-  Limit
+  this pod is try to limit the String
                    DESC
 
   s.homepage     = 'https://github.com/RookiePyl/JHTextKit'
@@ -12,8 +12,8 @@ Pod::Spec.new do |s|
   s.source       = { :git => 'https://github.com/RookiePyl/JHTextKit.git', :tag => s.version, :submodules => true }
   s.requires_arc  = true
 
-  s.public_header_files = 'JHTextKit/JHTextKit.h'
-  s.source_files  = 'JHTextKit/JHTextKit.h'
+  s.public_header_files = 'JHTextKit.h'
+  s.source_files  = 'JHTextKit.h'
 
 
 
