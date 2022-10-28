@@ -1,2 +1,2 @@
 # JHTextKit
-Limit
+限制emoji
